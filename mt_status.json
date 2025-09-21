@@ -1,0 +1,77 @@
+{
+  "bcdidr": {
+    "status": 1,
+    "since": "1945-08-17 10:00:00",
+    "description": "BCD/IDR"
+  },
+  "botxidr": {
+    "status": 1,
+    "since": "1945-08-17 10:00:00",
+    "description": "BOTX/IDR"
+  },
+  "celoidr": {
+    "status": 1,
+    "since": "1945-08-17 10:00:00",
+    "description": "CELO/IDR"
+  },
+  "ckbidr": {
+    "status": 1,
+    "since": "1945-08-17 10:00:00",
+    "description": "CKB/IDR"
+  },
+  "ftmidr": {
+    "status": 1,
+    "since": "2025-08-18 16:17:57",
+    "description": "FTM/IDR"
+  },
+  "gxcidr": {
+    "status": 1,
+    "since": "1945-08-17 10:00:00",
+    "description": "GXC/IDR"
+  },
+  "iotaidr": {
+    "status": 1,
+    "since": "1945-08-17 10:00:00",
+    "description": "IOTA/IDR"
+  },
+  "mtlidr": {
+    "status": 1,
+    "since": "1945-08-17 10:00:00",
+    "description": "MTL/IDR"
+  },
+  "neorpidr": {
+    "status": 1,
+    "since": "1945-08-17 10:00:00",
+    "description": "NEOIDR/IDR"
+  },
+  "tiaidr": {
+    "status": 1,
+    "since": "1945-08-17 10:00:00",
+    "description": "TIA/IDR"
+  },
+  "vexidr": {
+    "status": 1,
+    "since": "1945-08-17 10:00:00",
+    "description": "VEX/IDR"
+  },
+  "vsysidr": {
+    "status": 1,
+    "since": "1945-08-17 10:00:00",
+    "description": "VSYS/IDR"
+  },
+  "xemidr": {
+    "status": 1,
+    "since": "1945-08-17 10:00:00",
+    "description": "XEM/IDR"
+  },
+  "xtzidr": {
+    "status": 1,
+    "since": "1945-08-17 10:00:00",
+    "description": "XTZ/IDR"
+  },
+  "kinusdt": {
+    "status": 1,
+    "since": "2025-09-20 11:40:48",
+    "description": "KIN/USDT"
+  }
+}
